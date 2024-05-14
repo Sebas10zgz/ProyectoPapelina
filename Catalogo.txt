@@ -1,0 +1,17 @@
+[
+ID: 1
+Nombre: Camion
+Precio: 100.0
+===========, 
+ID: 2
+Nombre: Selec
+Precio: 150.99
+===========, 
+ID: 3
+Nombre: Armario
+Precio: 1039.5
+===========, 
+ID: 4
+Nombre: Ordenador
+Precio: 521.1
+===========]
